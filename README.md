@@ -2,6 +2,8 @@
 
 I am James McConnell 
 
+https://jamesmcconnell.life
+
 Owner of Rabbit Ears Design: http://RabbitEarsDesign.com
 
 I build React JS web applications
